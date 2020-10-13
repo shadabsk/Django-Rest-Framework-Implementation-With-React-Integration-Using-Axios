@@ -3,7 +3,7 @@ Demonstration of Django Rest Framework Implementation With React Integration Usi
 
 ## Getting Started
 ### DRF
-All the source code related Django (Backend) logic is present inside the Django-REST-Framework directory. All the source code related React and its integration logic is present inside the React-DRF-axios directory.
+All the source code related to Django (Backend) logic is present inside the Django-REST-Framework directory. All the source code related React and its integration logic is present inside the React-DRF-axios directory.
 It requires python interpreter,HTML5 Browser, Django Backend server, NodeJS.
 * Open "Django-REST-Framework" directory first and create a virtual environment. Install necessary package over it.
 * From "Django-REST-Framwork" directory using cmd/terminal run the server with the command "py .\drf\manage.py runserver".
