@@ -1,5 +1,5 @@
 # Project Title
-Demonstration of Django Rest Framework Implementation With React Integration Using Axios.
+A bear minimal implementation of the DRF where there will be a list of pandemics, along side the integration of this DRF with the react app from where the user will be having two components one will facilitate rendering of list (GET request) and other will be facilitating sending data to the DRF backend (POST request).
 
 ## Getting Started
 ### DRF
